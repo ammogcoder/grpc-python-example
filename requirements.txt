@@ -1,0 +1,13 @@
+astroid==2.2.5
+docutils==0.14
+grpcio==1.22.0
+grpcio-tools==1.22.0
+isort==4.3.21
+lazy-object-proxy==1.4.1
+mccabe==0.6.1
+protobuf==3.8.0
+-e git+https://github.com/redcranetech/grpcspec-example.git@31985d8cf53ade28718d6a9078643e4b94bda8fe#egg=pygrpcspec
+pylint==2.3.1
+six==1.12.0
+typed-ast==1.4.0
+wrapt==1.11.2
